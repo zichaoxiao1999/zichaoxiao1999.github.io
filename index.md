@@ -6,7 +6,7 @@ layout: page
 
 Here is **Zichao Xiao (肖梓超)**.
 
-I am a third-year graduate student majoring in **Information and Communication Engineering** advised by [Prof. Ming Li](https://www.minglabdut.com/index.html) at Dalian University of Technology. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiaozichao@mail.dlut.edu.cn*
+I am a third-year graduate student majoring in **Information and Communication Engineering** advised by [Prof. Ming Li](https://www.minglabdut.com/index.html) at Dalian University of Technology. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *xiaozichao@mail.dlut.edu.cn*
 
 ## Academic Background
 
