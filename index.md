@@ -12,8 +12,8 @@ I am a third-year graduate student majoring in **Information and Communication E
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2021 - June 2024:** Dalian University of Technology (MEng)
-- **Sep 2017 - June 2021:** Dalian University of Technology (BEng)
+- **Sep. 2021 - Present:** Dalian University of Technology (MEng), major in Information and Communication Engineering
+- **Sep. 2017 - June 2021:** Dalian University of Technology (BEng), major in Electronic and Information Engineering
 
 <br>
 
