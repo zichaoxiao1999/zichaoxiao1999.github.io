@@ -12,7 +12,7 @@ I am a third-year graduate student majoring in **Information and Communication E
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep. 2021 - Present:** Dalian University of Technology (MEng), major in Information and Communication Engineering
+- **Sep. 2021 - Present (Expected: June 2024):** Dalian University of Technology (MEng), major in Information and Communication Engineering
 - **Sep. 2017 - June 2021:** Dalian University of Technology (BEng), major in Electronic and Information Engineering
 
 <br>
@@ -22,10 +22,24 @@ I am a third-year graduate student majoring in **Information and Communication E
 ## Research Interests
 
 - Signal Processing in Physical Layer Wireless Communications
+
 - Precoding Design
+
 - Integrated Sensing and Communications
+
 - MIMO-OFDM
+
 - Radar Target Estimation
+
+  **I am always interested in any technique enabling the wireless future better!**
+
+<br>
+
+---
+
+## Honors and Awards
+
+- **2021.10:** National Scholarship of Graduate Student
 
 <br>
 
