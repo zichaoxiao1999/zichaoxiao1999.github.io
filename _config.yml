@@ -28,6 +28,9 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: Others
+    url: /Others/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
