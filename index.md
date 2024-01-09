@@ -20,18 +20,12 @@ I am a third-year graduate student majoring in **Information and Communication E
 ## Research Interests
 
 - Signal Processing in Physical Layer Wireless Communications
-
 - Precoding Design
-
 - Integrated Sensing and Communications
-
 - MIMO-OFDM
-
 - Radar Target Estimation
 
-  **I am always interested in any technique enabling the wireless future better!**
-
----
+**I am always interested in any technique enabling the wireless future better!**
 
 ## Honors and Awards
 
