@@ -12,13 +12,10 @@ I am a third-year graduate student majoring in **Information and Communication E
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep. 2021 - Present (Expected: June 2024):** Dalian University of Technology (MS), 
+- **Sep. 2021 - Present (Expected: June 2024):** Dalian University of Technology (MS), major in Information and Communication Engineering
 
-  major in Information and Communication Engineering
+- **Sep. 2017 - June 2021:** Dalian University of Technology (BS), major in Electronic and Information Engineering
 
-- **Sep. 2017 - June 2021:** Dalian University of Technology (BS), 
-
-  major in Electronic and Information Engineering
 
 ---
 
