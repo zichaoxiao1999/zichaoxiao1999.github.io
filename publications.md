@@ -22,9 +22,9 @@ Lastest Update: Jan 2024&nbsp;
 
 - **Z. Xiao**, R. Liu, Y. Liu, M. Li, and Q. Liu, “[Low-complexity grouped symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9685319),” in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021, pp. 1-6. 
 
-- P. Li, **Z. Xiao**, M. Li, R. Liu, and Q. Liu, “[Low-range-sidelobe waveform design for MIMO OFDM ISAC systems](https://arxiv.org/pdf/2305.18847.pdf),” submitted to *Proc. IEEE Int. Conf. Commun. (ICC)*, under review. 
+- P. Li, **Z. Xiao**, M. Li, R. Liu, and Q. Liu, “[Low-range-sidelobe waveform design for MIMO OFDM ISAC systems](https://arxiv.org/pdf/2305.18847.pdf),” in *Proc. IEEE Int. Conf. Commun. (ICC)*, to appear. 
 
-- P. Jiang, R. Liu, M. Li, **Z. Xiao**, and Q. Liu, “Deep learning for SLP-based ISAC waveform design,” submitted to *Proc. IEEE Int. Conf. Commun. (ICC)*, under review.
+- P. Jiang, R. Liu, M. Li, **Z. Xiao**, and Q. Liu, “Deep learning for SLP-based ISAC waveform design,” in *Proc. IEEE Int. Conf. Commun. (ICC)*, to appear.
 
   <br>
 
